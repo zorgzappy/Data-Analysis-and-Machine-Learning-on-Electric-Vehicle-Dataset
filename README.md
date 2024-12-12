@@ -3,8 +3,8 @@ Analyzing a electric vehicle dataset for insights as to what vehicle would be th
 
 ## Dataset
 
-The dataset can be accessed from Kaggle:
-[Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+The dataset can be accessed from a government data site:
+[EV dataset](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data)
 
 ## Setup Instructions
 
