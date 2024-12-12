@@ -1,11 +1,6 @@
 # Data-Analysis-and-Machine-Learning-on-Electric-Vehicle-Dataset
 Analyzing a electric vehicle dataset for insights as to what vehicle would be the cheapest. 
 
-
-# Customer Churn Prediction for Telco Customer Churn
-
-This project aims to predict customer churn for a telecommunications company using a dataset from Kaggle. The model will help identify customers likely to discontinue the service, enabling proactive retention efforts.
-
 ## Dataset
 
 The dataset can be accessed from Kaggle:
