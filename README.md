@@ -2,7 +2,7 @@
 Analyzing a electric vehicle dataset for insights as to what vehicle would be the cheapest. 
 
 
-**PLEASE NOTE, I didn't upload the pre-cleaned dataset because the file is too big. You can download it in the link listed below. I have attatched the cleaned version of the dataframe.**
+**PLEASE NOTE You can download dataset in the link listed below. I have attatched the cleaned version of the dataframe and a compressed version here.**
 
 
 ## Dataset
