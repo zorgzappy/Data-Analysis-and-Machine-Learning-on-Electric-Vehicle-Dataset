@@ -1,6 +1,10 @@
 # Data-Analysis-and-Machine-Learning-on-Electric-Vehicle-Dataset
 Analyzing a electric vehicle dataset for insights as to what vehicle would be the cheapest. 
 
+
+**PLEASE NOTE, I didn't upload the pre-cleaned dataset because the file is too big. You can download it in the link listed below. I have attatched the cleaned version of the dataframe.**
+
+
 ## Dataset
 
 The dataset can be accessed from a government data site:
